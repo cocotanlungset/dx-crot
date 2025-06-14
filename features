@@ -10,4 +10,11 @@ F3 + 2 : PF 50%
 F3 + 5 : OFF
 F5 : AutoKey ON
 F6 : AutoKey OFF
-Inset / Nump 0 : Press Auto Arrow Real
+Inset / Num0 : Press Auto Arrow Real
+X + 1 : SHOW PF LINE
+X + 2 : HIDE PF LINE
+N + 1 : AUTO SPACE DEPAN + KEY + PF
+N + 2 : AUTO SPACE DEPAN + KEY + GREAT
+N + 3 : AUTO SPACE DEPAN + KEY +  COOL
+N + 4 : AUTO SPACE DEPAN + KEY + BAD
+N + 5 : OFF [ AUTO SPACE DEPAN + KEY ]
