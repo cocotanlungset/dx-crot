@@ -1,5 +1,8 @@
 Auto ON:
 - Dobrak Server
+- Skip Giftbox
+- Ghost Garden
+- Free Mark H
 - Emoticon ( command )
 - Auto Captcha
 - Reduce RAM
@@ -10,6 +13,7 @@ F3 + 2 : PF 50%
 F3 + 5 : OFF
 F5 : AutoKey ON
 F6 : AutoKey OFF
+F9 : Press Auto Arrow Slow
 Inset / Num0 : Press Auto Arrow Real
 X + 1 : SHOW PF LINE
 X + 2 : HIDE PF LINE
